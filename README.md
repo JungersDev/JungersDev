@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JungersDev
 - 👀 I’m interested in BackEnd development with JAVA programming language, work with databases and finally stay on my life way
-- 🌱 I’m currently learning Java Object Oriented Programming, Spring opportunities, PostgreSQL, Kubernetes, Java Multithreading and Docker
+- 🌱 I’m currently learning Java Object Oriented Programming, Algorithms, Spring opportunities, PostgreSQL, Kubernetes, Java Multithreading and Docker
 - 💞️ I’m looking to collaborate on in interesting and HiTec projects
 - 📫 How to reach me (Instagram)Jungerschaft or jungerschaft(Telegram) 
 
